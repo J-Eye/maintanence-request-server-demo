@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MaintanenceRequestServerApplication {
+public class MaintenanceRequestServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MaintanenceRequestServerApplication.class, args);
+		SpringApplication.run(MaintenanceRequestServerApplication.class, args);
 	}
 
 }
